@@ -1,5 +1,6 @@
-<img width="1255" height="724" alt="image_2026-08-30_03-26-24" src="https://github.com/user-attachments/assets/6a8c2f05-e513-4661-b113-ec30a60d3468" />
 # Ozon Profit Bot
+
+<img width="1255" height="724" alt="image_2026-08-30_03-26-24" src="https://github.com/user-attachments/assets/6a8c2f05-e513-4661-b113-ec30a60d3468" />
 
 Автоматический помощник для выполнения заданий на платформе Ozon Profit.  
 Позволяет автоматизировать рутинные задачи модерации товаров, разметки данных и сбора информации.
