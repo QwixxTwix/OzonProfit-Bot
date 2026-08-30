@@ -1,0 +1,6 @@
+OzonProfitBot/
+├── OzonAsis.py          # Основной код бота
+├── requirements.txt     # Зависимости
+├── README.md            # Инструкция
+├── .gitignore           # Игнорируемые файлы
+└── LICENSE              # Лицензия MIT (опционально)
