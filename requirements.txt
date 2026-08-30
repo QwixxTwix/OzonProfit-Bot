@@ -1,0 +1,6 @@
+PyQt5
+selenium
+pyautogui
+requests
+pillow
+undetected-chromedriver
