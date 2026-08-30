@@ -1,0 +1,15 @@
+# Конфигурация
+ozon_config.json
+
+# Профили браузера
+OzonBotProfile/
+
+# Логи и временные файлы
+*.log
+*.tmp
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
